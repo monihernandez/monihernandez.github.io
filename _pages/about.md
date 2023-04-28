@@ -20,7 +20,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-
 Bienvenid@s a mi pagina. 
 Me presento, mi nombre es Monica, Naci el 10 de septiembre del 2001 en el Edo. de Mexico, Actualmente tengo 21 años y soy estudiante de octavo semestre en la  carrera de Ingenieria en Computacion, en la universidad UEMEX [Valle de Mexico](https://cuvalledemexico.uaemex.mx/). 
 De igual manera trabajo como becaria en el area de sistemas en la empresa INAVA [Instrumentacion Avanzada JR S.A De C.V](https://inava.com.mx/)
