@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p> 5515323160</p>
-    <p> Priv. Cruz del Campo Santo #21D, Col. Santa Cruz del Monte, Naucalpan de Juarez </p>
+    <p> Priv. Cruz del Campo Santo #21D, Col. Santa Cruz del Monte,
+     Naucalpan de Juarez </p>
     <p> Mexico, C.P 53110 </p>
 
 news: true  # includes a list of news items
@@ -21,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 Bienvenid@s a mi pagina. 
 Me presento, mi nombre es Monica, Naci el 10 de septiembre del 2001 en el Edo. de Mexico, Actualmente tengo 21 años y soy estudiante de octavo semestre en la  carrera de Ingenieria en Computacion, en la universidad UEMEX [Valle de Mexico](https://cuvalledemexico.uaemex.mx/). 
-De igual manera trabajo como becaria en el area de sistemas en la empresa INAVA [Instrumentacion Avanza JR S.A De C.V](https://inava.com.mx/)
+De igual manera trabajo como becaria en el area de sistemas en la empresa INAVA [Instrumentacion Avanzada JR S.A De C.V](https://inava.com.mx/)
 
 Le contare un poco mas sobre mi....
 Soy de signo Virgo, Tengo 2 hermanos, yo soy la segunda de los tres, mi color favorito es el negro y el blanco.
