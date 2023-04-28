@@ -6,12 +6,12 @@ subtitle:
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> 5515323160</p>
     <p> Priv. Cruz del Campo Santo #21D, Col. Santa Cruz del Monte </p>
-    </p>Naucalpan de Juarez </p>
+    <p>Naucalpan de Juarez </p>
     <p> Mexico, C.P 53110 </p>
 
 news: true  # includes a list of news items
