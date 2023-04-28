@@ -10,8 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p> 5515323160</p>
-    <p> Priv. Cruz del Campo Santo #21D, Col. Santa Cruz del Monte,
-     Naucalpan de Juarez </p>
+    <p> Priv. Cruz del Campo Santo #21D, Col. Santa Cruz del Monte </p>
+    </p>Naucalpan de Juarez </p>
     <p> Mexico, C.P 53110 </p>
 
 news: true  # includes a list of news items
@@ -25,10 +25,12 @@ Me presento, mi nombre es Monica, Naci el 10 de septiembre del 2001 en el Edo. d
 De igual manera trabajo como becaria en el area de sistemas en la empresa INAVA [Instrumentacion Avanzada JR S.A De C.V](https://inava.com.mx/)
 
 Le contare un poco mas sobre mi....
+
+
 Soy de signo Virgo, Tengo 2 hermanos, yo soy la segunda de los tres, mi color favorito es el negro y el blanco.
 Tengo dos mascotas una Perrita de raza Husky Siberiano su nombre es Maya, mi otra mascotita es una gatita siames su nombre es Kira la verdad son marravillosas.
 
-Tambien tengo una relacion de 1 año 1 mes con mi precioso novio Alejandro, disfruto mucho estar con el, e hace reir demasiado y hacemos buen equipo, a veces siento que nos complementamos mucho.♥
+Tambien tengo una relacion de 1 año 1 mes con mi precioso novio Alejandro, disfruto mucho estar con el, me hace reir demasiado y hacemos buen equipo, a veces siento que nos complementamos mucho.♥
 
 
 Me gusta mucho bailar y escuchar musica, aun que no tengo un genero favorito, pero una de las canciones que mas escucho se llama  [Miel](https://www.youtube.com/watch?v=Y5cLnhGQECA). 
