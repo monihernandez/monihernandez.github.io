@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: prof_pic.jpeg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> 5515323160</p>
@@ -18,7 +18,8 @@ news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
----
+-------------
+
 
 Bienvenid@s a mi pagina. 
 Me presento, mi nombre es Monica, Naci el 10 de septiembre del 2001 en el Edo. de Mexico, Actualmente tengo 21 años y soy estudiante de octavo semestre en la  carrera de Ingenieria en Computacion, en la universidad UEMEX [Valle de Mexico](https://cuvalledemexico.uaemex.mx/). 
