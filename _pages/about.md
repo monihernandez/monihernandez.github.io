@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> 5515323160 </p>
+    <p> 5515323160</p>
     <p> Priv. Cruz del Campo Santo #21D, Col. Santa Cruz del Monte, Naucalpan de Juarez </p>
-    <p> México, C.P 53110 </p>
+    <p> Mexico, C.P 53110 </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
